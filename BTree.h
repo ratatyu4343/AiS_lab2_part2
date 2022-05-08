@@ -1,6 +1,6 @@
 #ifndef BTREE_H
 #define BTREE_H
-#include "../TreeNode.h"
+#include "TreeNode.h"
 #include <utility>
 #include <iostream>
 class BTree
